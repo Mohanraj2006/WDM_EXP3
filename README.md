@@ -147,6 +147,4 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')```
 <img width="1279" height="723" alt="image" src="https://github.com/user-attachments/assets/2d1b4e7c-7727-4a09-b837-0853c28b8526" />
 <img width="1261" height="719" alt="image" src="https://github.com/user-attachments/assets/37716f63-89bc-4c13-83ce-19d48e0cc9ae" />
 
-
-### Result:
-GSP Algorithm In Python has been implemented successfully.
+### Result:GSP Algorithm In Python has been implemented successfully.
